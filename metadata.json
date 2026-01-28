@@ -1,0 +1,5 @@
+{
+  "name": "BizAnalytics Pro",
+  "description": "A professional business analytics dashboard simulating Looker Studio capabilities with real-time editing and Gemini AI insights.",
+  "requestFramePermissions": []
+}
